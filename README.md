@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### Для проверки заданий необходимо иметь на компьютере установленные:
 * ##### rustup
 * ##### cargo
@@ -9,3 +10,7 @@ https://www.rust-lang.org/learn/get-started
 ``` 
 cargo run
  ```
+=======
+Для проверки заданий необходимо иметь на компьютере установленный rustup и cargo
+https://www.rust-lang.org/learn/get-started
+>>>>>>> b9e2670070c32016d3084bcdc6dc8c4c4c8bd1c1
